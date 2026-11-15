@@ -24,25 +24,3 @@ python3 -m http.server 8000
 ```
 
 Then visit: http://localhost:8000
-
-## Deploy to GoDaddy
-
-1. In GoDaddy, open **My Products → Web Hosting** or use a static-hosting service.
-2. Upload the contents of this folder—not the folder itself—to the site root, usually `public_html`.
-3. Ensure `index.html` is in the root directory.
-4. Visit `https://bootloops.ca`.
-
-## MVP roadmap
-
-1. Publish the five-page static MVP.
-2. Add a real Living Orb audio-reactive mode using the Web Audio API.
-3. Add the Web Stylophone playable prototype.
-4. Add email signup and a simple contact form.
-5. Add project detail pages and a lightweight content system.
-6. Add a community/reboot library with downloadable guides and checklists.
-
-## Content guardrails
-
-- Avoid crypto, trading, investment, or financial-advice content for now.
-- Present speculative or controversial subjects as questions, research, and personal exploration—not settled fact.
-- Keep the tone constructive: awareness, creativity, practical skills, cooperation, and resilience.
